@@ -1,6 +1,6 @@
 # 👋 Hola, soy Carlos Quezada
 
-![Banner](https://via.placeholder.com/800x200.png?text=Bienvenido+a+mi+GitHub)
+![Banner](https://i.imgur.com/Q8qOtvY.png)
 
 💻 Desarrollador web autodidacta  
 🚀 Actualmente aprendiendo **React** y **Node.js**  

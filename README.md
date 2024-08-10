@@ -7,19 +7,13 @@
 🌱 Siempre explorando nuevas tecnologías
 
 ## 🛠️ Tecnologías y Herramientas
-- **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** Node.js, Express
-- **Base de datos:** MongoDB, MySQL
+- **Frontend:** HTML, CSS, JavaScript
 - **Otros:** Git, GitHub, VS Code
 
-![Tecnologías](https://via.placeholder.com/800x200.png?text=Tecnologías+y+Herramientas)
 
-## 📈 Estadísticas de GitHub
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
 
 ## 📫 Conéctate conmigo
-- LinkedIn: [Carlos Quezada](https://www.linkedin.com/in/tu-usuario)
-- Twitter: [@TuUsuario](https://twitter.com/tu-usuario)
-- Email: [tucorreo@example.com](mailto:tucorreo@example.com)
+- LinkedIn: [Carlos Quezada](https://www.linkedin.com/in/carlos-quezada-web)
+  - Email: [carlos.quezada.dev@gmail.com](mailto:carlos.quezada.dev@gmail.com)
 
 ![Footer](https://via.placeholder.com/800x200.png?text=Gracias+por+visitar+mi+perfil)

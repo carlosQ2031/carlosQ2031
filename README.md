@@ -10,10 +10,8 @@
 - **Frontend:** HTML, CSS, JavaScript
 - **Otros:** Git, GitHub, VS Code
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)
 
 ## 📫 Conéctate conmigo
 - LinkedIn: [Carlos Quezada](https://www.linkedin.com/in/carlos-quezada-web)
-  - Email: [carlos.quezada.dev@gmail.com](mailto:carlos.quezada.dev@gmail.com)
-
-![Footer](https://via.placeholder.com/800x200.png?text=Gracias+por+visitar+mi+perfil)
+- Email: [carlos.quezada.dev@gmail.com](mailto:carlos.quezada.dev@gmail.com)

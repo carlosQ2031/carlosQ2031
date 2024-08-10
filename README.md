@@ -1,6 +1,6 @@
 # 👋 Hola, soy Carlos Quezada
 
-![Banner]([https://i.imgur.com/Q8qOtvY.png](https://d2a5isokysfowx.cloudfront.net/wp-content/uploads/2021/01/trabajar-amazon-desarrollador-1024x582.jpg))
+![Banner](https://d2a5isokysfowx.cloudfront.net/wp-content/uploads/2021/01/trabajar-amazon-desarrollador-1024x582.jpg)
 
 💻 Desarrollador web autodidacta  
 🚀 Actualmente aprendiendo **React** y **Node.js**  

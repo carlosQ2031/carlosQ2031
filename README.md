@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hola, soy Carlos Quezada
 
-<!--
-**carlosQ2031/carlosQ2031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](https://via.placeholder.com/800x200.png?text=Bienvenido+a+mi+GitHub)
 
-Here are some ideas to get you started:
+💻 Desarrollador web autodidacta  
+🚀 Actualmente aprendiendo **React** y **Node.js**  
+🌱 Siempre explorando nuevas tecnologías
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y Herramientas
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Node.js, Express
+- **Base de datos:** MongoDB, MySQL
+- **Otros:** Git, GitHub, VS Code
+
+![Tecnologías](https://via.placeholder.com/800x200.png?text=Tecnologías+y+Herramientas)
+
+## 📈 Estadísticas de GitHub
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
+
+## 📫 Conéctate conmigo
+- LinkedIn: [Carlos Quezada](https://www.linkedin.com/in/tu-usuario)
+- Twitter: [@TuUsuario](https://twitter.com/tu-usuario)
+- Email: [tucorreo@example.com](mailto:tucorreo@example.com)
+
+![Footer](https://via.placeholder.com/800x200.png?text=Gracias+por+visitar+mi+perfil)
